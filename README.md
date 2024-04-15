@@ -6,7 +6,7 @@ its a markdown file in this repository
 
 IBM Data Analyst Professional Capstone project
 
-Analysis Dashboard Link: ∞
+Analysis Dashboard Link: https://eu2.ca.analytics.ibm.com/bi/?perspective=dashboard&pathRef=.my_folders%2FNew%2Bdashboard_Capstone_Project1&action=view&mode=dashboard&subView=model0000018e7c1a4b0d_00000000
 
 Project Overview
 
